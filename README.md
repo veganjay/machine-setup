@@ -28,3 +28,8 @@ Gedit
 - Preferences -> Plugins -> Text Size
 - Preferences -> Fonts & Colors -> Cobalt
 - Perferences -> Fonts & Colors -> Uncheck use system fixed width font -> Monospace Regular 20
+
+Terminal
+
+- Preferences -> Profile -> Unnamed -> Rename to Default
+- Preferences -> Profile -> Default -> Text -> Text Appearance -> Custom Font -> Monospace 18

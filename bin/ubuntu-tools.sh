@@ -8,6 +8,7 @@ sudo apt install \
     meld \
     ncdu \
     ripgrep \
+    tree \
     tmux \
     vim
 
