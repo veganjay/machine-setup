@@ -7,6 +7,7 @@ sudo apt install \
     gnome-tweaks \
     meld \
     ncdu \
+    rdfind \
     ripgrep \
     tree \
     tmux \
