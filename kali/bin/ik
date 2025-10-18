@@ -1,0 +1,17 @@
+#!/bin/sh
+
+if [ ! -d /media/$USER/IronKey ]
+then
+	echo IronKey not inserted.
+	exit
+fi
+
+if [ -d /media/$USER/IronKey\ USB ]
+then
+	echo IronKey already mounted.
+	exit
+fi
+
+# Run the ironkey software
+cd /media/$USER/IronKey/linux
+./ironkey
