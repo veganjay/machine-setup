@@ -2,6 +2,10 @@
 
 ## Files
 
+Link the directory:
+
+    ln -s machine-setup/kali/bin ~/bin
+
 Run as user with sudo permissions:
 
 - `install-kali-tools.sh`: Install standard utilties (e.g., vim, tmux, etc.)
@@ -11,7 +15,6 @@ Run as user with sudo permissions:
 Gedit
 
 - Preferences -> View -> Uncheck Line Numbers
-- Preferences -> Plugins -> Text Size
 - Preferences -> Fonts & Colors -> Cobalt
 - Perferences -> Fonts & Colors -> Uncheck use system fixed width font -> Monospace Regular 20
 
