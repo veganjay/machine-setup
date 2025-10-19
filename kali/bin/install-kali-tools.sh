@@ -2,6 +2,7 @@
 
 # Apt install utilities
 sudo apt install \
+    autorecon \
     gedit \
     keepassxc-full \
     libreoffice \
